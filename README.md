@@ -34,7 +34,8 @@
 
 7. Finalmente después de ingresar el valor y/o monto a convertir y dar enter, el programa genera la conversión e indica de que moneda a que moneda fue convertido y la fecha.
 
-![image](https://github.com/Guerfer/Conversor-De-Monedas-Challenge/assets/134177001/8ef7f650-a316-450b-84c7-a5bcc0a74032
+![image](https://github.com/Guerfer/Conversor-De-Monedas-Challenge/assets/134177001/a9bf8c20-99fd-4c94-860e-12325c0951c0)
+
 
 ### Contribución
 Gracias por considerar contribuir en el proyecto. Aquí hay algunas formas en las que puedes ayudar:
