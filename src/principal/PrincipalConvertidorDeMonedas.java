@@ -27,11 +27,11 @@ public class PrincipalConvertidorDeMonedas {
         double tipoCambio = funcionApi.obtenerCambio(tipoMonedaOrigen, tipoMonedaDestino);
 
         // Se obtiene la conversion de la moneda
-        FuncionConvertirValorMonedas converter = new FuncionConvertirValorMonedas(funcionApi.obtenerCambio(tipoMonedaOrigen, tipoMonedaDestino));
-        double totalConvertido = converter.convertir(valorConvertir);
+        FuncionConvertirValorMonedas convertir = new FuncionConvertirValorMonedas(funcionApi.obtenerCambio(tipoMonedaOrigen, tipoMonedaDestino));
+        double totalConvertido = convertir.convertir(valorConvertir);
 
         // Se obtiene la fecha actual
-        String fechaDeConsulta = FuncionFecha.getCurrentDate();
+        String fechaDeConsulta = FuncionFecha.fechaActual();
 
 
         System.out.println("El valor que se ingreso para convertir fue: " + valorConvertir + " " + tipoMonedaOrigen + " el cual es igual a " + totalConvertido + " " + tipoMonedaDestino + " en la fecha: " + fechaDeConsulta);
