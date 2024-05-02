@@ -1,11 +1,11 @@
 # Conversor De Monedas Challenge
 <p>Este proyecto es un conversor de monedas que permite convertir distintos tipos de monedas utilizando las tasas de cambio en tiempo real. Se ingresa un valor de una moneda y se obtiene su equivalente en otra moneda. </p>
 
-#### ### Caracteristicas  :tw-1f4b1:
+### Caracteristicas  
 - Conversión entre múltiples monedas (por ejemplo, USD a EUR, COP a JPY, etc.).
 - Utiliza tasas de cambio actualizadas desde una fuente confiable (por ejemplo, la API de https://v6.exchangerate-api.com).
 
-### Uso :fa-wrench:
+### Uso 
 1. La aplicación se divide en 2 secciones. 
 - la clase principal.
 - las funciones.
@@ -44,7 +44,7 @@ Gracias por considerar contribuir en el proyecto. Aquí hay algunas formas en la
 - Realiza tus modificaciones y confirma los cambios
 - Envía una solicitud de extracción (pull request) desde tu rama a la rama principal.
 
-Espero tus contribuciones. ¡Gracias :tw-1f603:! 
+Espero tus contribuciones. ¡Gracias! 
 
 ### Licencia
 
